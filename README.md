@@ -18,22 +18,15 @@ a dedicated technical trainer, and a creative mind in graphic and UI design.
 - 📄 Learn more: [My Resume](https://shorturl.at/QeUkX)  
 - ⚡ Fun fact: *I'm still confused which field I need to choose...* 😅 <br><br>
 
-## 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/ankithcr" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a> &nbsp
-  <a href="https://instagram.com/_ankith.gowda" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a> &nbsp
-  <a href="https://www.hackerrank.com/ankithcr13" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a> &nbsp
-  <a href="https://www.leetcode.com/ankithcr13" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p> <br>
+## 📊 GitHub Stats
+<div align="center" style="background: rgba(255,255,255,0.10); border-radius: 14px; padding: 1rem 0.5rem; box-shadow: 0 2px 16px rgba(0,0,0,0.10); backdrop-filter: blur(6px); border: 1px solid rgba(255,255,255,0.12);">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=ankithcrgowda&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=ankithcrgowda&theme=transparent&hide_border=false" height="160" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithcrgowda&theme=transparent&hide_border=false&layout=compact" height="160" alt="Top Languages"/>
+
+</div>
 
 ## 🛠️ Tech Stack
 <!-- Tech badges here -->
@@ -57,11 +50,21 @@ a dedicated technical trainer, and a creative mind in graphic and UI design.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br><br>
 
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ankithcrgowda&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ankithcrgowda&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankithcrgowda&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+## 🤝 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/ankithcr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/_ankith.gowda" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.hackerrank.com/ankithcr13" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.leetcode.com/ankithcr13" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankithcrgowda&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
