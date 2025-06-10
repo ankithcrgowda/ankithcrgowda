@@ -1,7 +1,8 @@
+<!-- Pacman Contribution Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ankithcrgowda/ankithcrgowda/raw/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ankithcrgowda/ankithcrgowda/raw/output/pacman-contribution-graph.svg">
+  <img src="https://github.com/ankithcrgowda/ankithcrgowda/raw/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
 </picture>
 
 <h1 align="center">Hi 👋, I'm Ankith C R</h1>
