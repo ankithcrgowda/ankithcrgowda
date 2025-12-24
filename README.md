@@ -22,16 +22,16 @@ a dedicated technical trainer, and a creative mind in graphic and UI design.
 - 👨‍💻 All of my projects are available at: [GitHub Profile](https://github.com/ankithcrgowda)  
 - 💬 Ask me about: **Java, HTML/CSS, Unity, SQL**  
 - 📫 Reach me at: **ankithcr13@gmail.com**  
-- 📄 Learn more: [My Resume](https://shorturl.at/QeUkX)  
+- 📄 Learn more: [My Resume](https://ankithcrgowda.github.io/portfolio/resume.html)  
 - ⚡ Fun fact: *I'm still confused which field I need to choose...* 😅 <br><br>
 
 
 ## 📊 GitHub Stats
-<div align="center" style="background: rgba(255,255,255,0.10); border-radius: 14px; padding: 1rem 0.5rem; box-shadow: 0 2px 16px rgba(0,0,0,0.10); backdrop-filter: blur(6px); border: 1px solid rgba(255,255,255,0.12);">
+<!-- <div align="center" style="background: rgba(255,255,255,0.10); border-radius: 14px; padding: 1rem 0.5rem; box-shadow: 0 2px 16px rgba(0,0,0,0.10); backdrop-filter: blur(6px); border: 1px solid rgba(255,255,255,0.12);"> -->
   
 <img src="https://github-readme-stats.vercel.app/api?username=ankithcrgowda&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=ankithcrgowda&theme=transparent&hide_border=false" height="160" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithcrgowda&theme=transparent&hide_border=false&layout=compact" height="160" alt="Top Languages"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithcrgowda&theme=transparent&hide_border=false&layout=compact" height="160" alt="Top Languages"/> -->
 
 </div>
 
