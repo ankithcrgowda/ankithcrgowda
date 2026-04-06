@@ -30,7 +30,7 @@ a dedicated technical trainer, and a creative mind in graphic and UI design.
 ## 📊 GitHub Stats
 <!-- <div align="center" style="background: rgba(255,255,255,0.10); border-radius: 14px; padding: 1rem 0.5rem; box-shadow: 0 2px 16px rgba(0,0,0,0.10); backdrop-filter: blur(6px); border: 1px solid rgba(255,255,255,0.12);"> -->
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=ankithcrgowda&theme=transparent&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ankithcrgowda&theme=transparent&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
 </p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithcrgowda&theme=transparent&hide_border=false&layout=compact" height="160" alt="Top Languages"/> -->
 
