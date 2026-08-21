@@ -5,7 +5,7 @@
   <img src="https://github.com/ankithcrgowda/ankithcrgowda/raw/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
 </picture>
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="">, I am Ankith C R </h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="">, I am <span style="color: red;">Ankith C R</span> </h1>
   
 <p align="center">
 A passionate software developer with a love for games and augmented reality development,<br>
